@@ -60,4 +60,5 @@ How to Run/View
 - Clone this repository.
 - Review the ReadMe
 - Full Project Report: Detailed Case Study
+[Security Log Analysis Project.pdf](https://github.com/user-attachments/files/23137847/Security.Log.Analysis.Project.pdf)
 
